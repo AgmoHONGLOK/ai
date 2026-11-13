@@ -1,0 +1,33 @@
+---
+name: guest-parking
+description: Tells the user where guests can park on campus. Use when the user asks about parking places, guest or visitor parking, or where to park. Triggers on: parking, where to park, guest parking, visitor parking, parking location, car park, orientation week parking.
+---
+
+# Guest Parking
+
+Use this skill to answer questions about where guests can park.
+
+## What to tell the user
+
+- **During orientation week, guests may park in front of the Engineering Faculty.**
+
+## How to answer
+
+1. State the parking location directly: in front of the Engineering Faculty.
+2. Make clear that this applies to **guests** and to **orientation week**.
+3. Keep the answer short. Add directions only if the user asks for them and you have that information.
+
+## Limits
+
+This skill only covers guest parking during orientation week. If the user asks about anything else, say you do not have that information and do not guess. Examples:
+
+- Guest parking outside orientation week
+- Student or staff parking
+- Parking fees, opening hours, or permits
+- Other parking locations on campus
+
+## Example
+
+**User:** Where can I park?
+
+**Answer:** If you're visiting as a guest during orientation week, you can park in front of the Engineering Faculty.
